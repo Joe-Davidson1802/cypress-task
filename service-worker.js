@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cypress-task/precache-manifest.611f5904224a512e96ea9b19e583ffb2.js"
+  "/cypress-task/precache-manifest.d8ca817615871420ac4e7327284357d6.js"
 );
 
 self.addEventListener('message', (event) => {
