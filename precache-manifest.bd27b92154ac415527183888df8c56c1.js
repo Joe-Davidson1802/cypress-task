@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "586002756b2f10e562ef4bbc2111e2ee",
+    "revision": "2054f87dcc60a26107c8b8ab609ef050",
     "url": "/cypress-task/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cypress-task/static/css/2.cd1899df.chunk.css"
   },
   {
-    "revision": "632e997154db166ff09e",
+    "revision": "313221296030298a154b",
     "url": "/cypress-task/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cypress-task/static/js/2.e4460ae2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "632e997154db166ff09e",
-    "url": "/cypress-task/static/js/main.f7f66b89.chunk.js"
+    "revision": "313221296030298a154b",
+    "url": "/cypress-task/static/js/main.721c6b31.chunk.js"
   },
   {
     "revision": "bb58d05eee098b6e0b34",
